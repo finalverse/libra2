@@ -1,5 +1,5 @@
 <a href="https://libra2.org">
-	<img width="100%" src="./.assets/libra2_logo.webp" alt="Libra Banner" />
+	<img width="100%" src="./.assets/libra2_banner.png" alt="Libra Banner" />
 </a>
 
 ---
