@@ -1,5 +1,5 @@
-<a href="https://aptos.dev">
-	<img width="100%" src="./.assets/aptos_banner.png" alt="Aptos Banner" />
+<a href="https://libra2.org">
+	<img width="100%" src="./.assets/libra2_logo.webp" alt="Libra Banner" />
 </a>
 
 ---
@@ -9,7 +9,7 @@
 [![codecov](https://codecov.io/gh/aptos-labs/aptos-core/branch/main/graph/badge.svg?token=X01RKXSGDE)](https://codecov.io/gh/aptos-labs/aptos-core)
 [![Discord chat](https://img.shields.io/discord/945856774056083548?style=flat-square)](https://discord.gg/aptosnetwork)
 
-Aptos is a layer 1 blockchain bringing a paradigm shift to Web3 through better technology and user experience. Built with Move to create a home for developers building next-gen applications.
+Libra2 is a layer 1 blockchain bringing a paradigm shift to Web3 through better technology and user experience. Built with Move to create a home for developers building next-gen applications. Libra2 pickedup and is extending the libra vision and now is on top of aptos temporary. 
 
 ## Getting Started
 
