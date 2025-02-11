@@ -13,6 +13,7 @@ Libra2 is a layer 1 blockchain bringing a paradigm shift to Web3 through better 
 
 ## Getting Started
 
+* [Libra2 Ecosystem](https://libra2.org/)
 * [Aptos Foundation](https://aptosfoundation.org/)
 * [Aptos Developer Network](https://aptos.dev)
 * [Guide - Integrate with the Aptos Blockchain](https://aptos.dev/guides/system-integrators-guide)
@@ -22,6 +23,6 @@ Libra2 is a layer 1 blockchain bringing a paradigm shift to Web3 through better 
 
 ## Contributing
 
-You can learn more about contributing to the Aptos project by reading our [Contribution Guide](https://github.com/aptos-labs/aptos-core/blob/main/CONTRIBUTING.md) and by viewing our [Code of Conduct](https://github.com/aptos-labs/aptos-core/blob/main/CODE_OF_CONDUCT.md).
+You can learn more about contributing to the Libra2 project by reading our [Contribution Guide](https://github.com/finalverse/libra2/blob/main/CONTRIBUTING.md) and by viewing our [Code of Conduct](https://github.com/finalverse/libra2/blob/main/CODE_OF_CONDUCT.md).
 
-Aptos Core is licensed under [Apache 2.0](https://github.com/aptos-labs/aptos-core/blob/main/LICENSE).
+Aptos Core is licensed under [Apache 2.0](https://github.com/finalverse/libra2/blob/main/LICENSE).
